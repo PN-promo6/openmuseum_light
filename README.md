@@ -17,7 +17,8 @@ Le futur site aura 3 pages, et donc 3 routes :
 - **Afficher un musée →** permettra de voir le détail d’un seul musée
   - Créer une route temporaire `/singleMuseum`
   - Qui affichera le component `singleMuseum` sans données, en attendant le prochain TP
-  - Cette page sera similaire à la page d'accueil → reproduire sur cette page le design d'un musée de la page d'accueil qui devra être similaire à ça : ![Screen singleMuseum](https://i.ibb.co/5x1ZRRP/tp-2-angular.jpg)
+  - Cette page sera similaire à la page d'accueil → reproduire sur cette page le design d'un musée de la page d'accueil qui devra être similaire à ça :
+  ![Screen singleMuseum](https://i.ibb.co/5x1ZRRP/tp-2-angular.jpg)
 
 ---
 
