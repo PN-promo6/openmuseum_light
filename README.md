@@ -1,5 +1,11 @@
 # :classical_building: OpenMuseum TP n°2
 
+## Installation et lancement du projet
+1. Clôner le projet depuis **votre repository** Github Classroom
+2. Ouvrir le dossier dans un terminal
+3. Faire la commande `npm install` pour installer les dépendances
+4. Lancer le projet avec `ng serve --open`
+
 ## Rappels : consignes TP n°1
 
 - Les données des musées doivent être contenues dans un service : `MuseumListService`
