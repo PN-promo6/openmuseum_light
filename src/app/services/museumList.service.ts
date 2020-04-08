@@ -225,13 +225,4 @@ export class MuseumListService {
       nomdep: "BOUCHES DU RHONE"
     }]
 
-  getMuseumById(museumId: number) {
-    const museum = this.museums.find(
-      (s) => {
-        return s.id === museumId;
-      }
-    );
-    return museum;
-  }
-
 }
